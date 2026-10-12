@@ -2,4 +2,4 @@
 
 Мій перший проєкт, потрібений для навчання
 
-this is my first project
+This is my first project
